@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+common/__pycache__/
+controllers/__pycache__/
+migrations/__pycache__/
+migrations/versions/__pycache__/
+models/__pycache__/
+venv/
